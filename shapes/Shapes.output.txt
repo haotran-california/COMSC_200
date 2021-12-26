@@ -1,0 +1,9 @@
+SQUARE side=14.50 area=210.25 perimeter=58.00 
+SQUARE side=0.00 area=0.00 perimeter=0.00 
+RECTANGLE length=14.50 width=4.65 area=67.43 perimeter=38.30 
+TRIANGLE side=1.50 area=0.75 perimeter=4.50 
+CIRCLE radius=14.50 area=660.52 perimeter=91.11 
+CYLINDER radius=50.00 height=1.23 area=9660.40 perimeter=16094.38 
+CYLINDER radius=1.20 height=0.00 area=0.00 perimeter=9.05 
+CUBE side=13.00 volume=2197.00 s_area=1014.00 
+BOX length=1.00 width=2.00 area=6.00 perimeter=22.00 
